@@ -10,4 +10,4 @@ To run the whole code, after specifying the correlations you are interested in v
 
 `cobaya-run info.yaml`
 
-Two .ini files are available as an example, one for working with Ly$\alpha$ correlation only, and another one for cross correlation with quasars too.
+Two .ini files are available as an example, one for working with Lyman alpha correlation only, and another one for cross correlation with quasars too.
